@@ -8,7 +8,7 @@ and experimentation.
 If interested in my comments, I invite you to read the following
 associated post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/29/alien-dictionary/
 
 Remember that the best way to learn is to read and experiment.
 
